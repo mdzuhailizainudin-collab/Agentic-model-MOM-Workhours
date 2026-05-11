@@ -1,4 +1,4 @@
-MOM Compliance Assistant
+MOM Compliance Assistant (Co-Pilot)
 
 The Goal: Developed a specialized AI agent to help workers navigate MOM employment practices with 100% accuracy and zero hallucinations.
 
